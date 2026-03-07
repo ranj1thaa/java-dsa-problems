@@ -2,7 +2,7 @@
 // Concept: Nested Loops, Pattern Logic
 
 // Description:
-// Print a triangle pattern consisting of 0s and 1s.  value depends on  sum of row and column indices.
+// Print a triangle pattern consisting of 0s and 1s. value depends on  sum of row and column indices.
 // If (i + j) is even → print 1
 // If (i + j) is odd → print 0
 
