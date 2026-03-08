@@ -26,7 +26,6 @@
 // Space Complexity: O(1)
 public class DinstinctNumber {
   public static boolean distinctNum(int n[]) {
-    int k[] = new int[n.length];
     for (int i = 0; i < n.length; i++) {
       for (int j = i + 1; j < n.length; j++) {
         if (n[i] == n[j]) {
