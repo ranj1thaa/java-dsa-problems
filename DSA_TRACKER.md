@@ -31,3 +31,6 @@
 | 29  | Sub Arrays                 | Array   | Easy       | Mar 7 |
 | 30  | Trapping Rain Wate         | Array   | Hard       | Mar 7 |
 | 31  | Buy & Sell Stock           | Array   | Medium     | Mar 7 |
+| 32  | Bubble Sort                | Sorting | Easy       | Mar 8 |
+| 33  | Selection Sort             | Sorting | Easy       | Mar 8 |
+| 34  | Insertion Sort             | Sorting | Easy       | Mar 8 |

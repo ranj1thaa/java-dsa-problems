@@ -2,11 +2,8 @@
 // Concept: Prefix Arrays, Precomputation, Array Traversal
 
 // Description:
-// Given n non-negative integers representing an elevation map where the width
-// of each bar is 1, compute how much water it can trap after raining.
-//
-// The idea is that water above a bar depends on the minimum of the tallest
-// bar to its left and the tallest bar to its right.
+// Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+// The idea is that water above a bar depends on the minimum of the tallest bar to its left and the tallest bar to its right.
 
 // Example:
 // Input:  [4, 2, 0, 6, 3, 2, 5]

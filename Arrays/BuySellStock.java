@@ -2,10 +2,7 @@
 // Concept: Greedy Algorithm, Array Traversal
 
 // Description:
-// Given an array prices where prices[i] is the price of a stock on the ith day.
-// You want to maximize your profit by choosing a single day to buy one stock
-// and choosing a different day in the future to sell that stock.
-//
+// Given an array prices where prices[i] is the price of a stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock  and choosing a different day in the future to sell that stock.
 // Return the maximum profit you can achieve from this transaction.
 // If no profit can be achieved, return 0.
 
