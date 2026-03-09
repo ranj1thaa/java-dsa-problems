@@ -14,16 +14,20 @@
 | 12  | Palindromic Number Pattern | Pattern | Easy       | Mar 6 |
 | 13  | Diamond Pattern            | Pattern | Easy       | Mar 6 |
 | 14  | Butterfly Pattern          | Pattern | Easy       | Mar 6 |
-
-| 16 | Linear Search | Array | Easy | Mar 7 |
-| 17 | Largest & Smallest Element | Array | Easy | Mar 7 |
-| 18 | Reverse Array | Array | Easy | Mar 7 |
-| 19 | Array Pairs | Array | Easy | Mar 7 |
-| 20 | Sub Arrays | Array | Easy | Mar 7 |
-| 21 | Maximum Subarray Sum | Array | Medium | Mar 7 |
-| 22 | Maximum Subarray (Prefix) | Array | Medium | Mar 7 |
-| 23 | Kadane's Algorithm | Array | Medium | Mar 7 |
-| 24 | Trapping Rain Water | Array | Hard | Mar 7 |
-| 25 | Buy & Sell Stock | Array | Medium | Mar 7 |
-| 26 | Contains Duplicate | Array | Easy | Mar 7 |
-| 27 | Binary Search | Array | Easy | Mar 7 |
+| 15  | Array Pairs                | Array   | Easy       | Mar 7 |
+| 16  | Array Sorted               | Array   | Easy       | Mar 7 |
+| 17  | Binary Search              | Array   | Easy       | Mar 7 |
+| 18  | Count Even & Odd           | Array   | Easy       | Mar 7 |
+| 19  | Distinct Number            | Array   | Easy       | Mar 7 |
+| 20  | Largest & Smallest Element | Array   | Easy       | Mar 7 |
+| 21  | Linear Search              | Array   | Easy       | Mar 7 |
+| 22  | Maximum Subarray Sum       | Array   | Medium     | Mar 7 |
+| 23  | Maximum Subarray (Prefix)  | Array   | Medium     | Mar 7 |
+| 24  | Kadane's Algorithm         | Array   | Medium     | Mar 7 |
+| 25  | Move Zero to end           | Array   | Easy       | Mar 7 |
+| 26  | Remove Duplicates          | Array   | Easy       | Mar 7 |
+| 27  | Reverse Array              | Array   | Easy       | Mar 7 |
+| 28  | Secound Largest            | Array   | Easy       | Mar 7 |
+| 29  | Sub Arrays                 | Array   | Easy       | Mar 7 |
+| 30  | Trapping Rain Wate         | Array   | Hard       | Mar 7 |
+| 31  | Buy & Sell Stock           | Array   | Medium     | Mar 7 |
