@@ -6,8 +6,6 @@
 | 04  | Inverted Rotated Pyramid   | Pattern | Easy        | Mar 6 |
 | 05  | Floyd Triangle             | Pattern | Easy        | Mar 6 |
 | 06  | Character Pattern          | Pattern | Easy        | Mar 6 |
-| 07  | 0-1 Triangle               | Pattern | Easy        | Mar 6 |
-| 08  | Hollow Rectangle           | Pattern | Easy        | Mar 6 |
 | 09  | Hollow Rhombus             | Pattern | Easy        | Mar 6 |
 | 10  | Solid Rhombus              | Pattern | Easy        | Mar 6 |
 | 11  | Number Pyramid             | Pattern | Easy        | Mar 6 |
@@ -34,3 +32,10 @@
 | 32  | Bubble Sort                | Sorting | Easy        | Mar 8 |
 | 33  | Selection Sort             | Sorting | Easy        | Mar 8 |
 | 34  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+
+| 35 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 36 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 37 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 38 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 39 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 40 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
