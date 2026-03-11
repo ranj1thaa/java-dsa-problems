@@ -1,5 +1,4 @@
 // Problem: Print a Matrix in Spiral Order
-// Difficulty: Medium
 // Concept: 2D Array Traversal, Boundary Control
 
 // Description:

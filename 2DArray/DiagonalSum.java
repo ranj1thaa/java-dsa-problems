@@ -1,5 +1,4 @@
 // Problem: Find the Sum of Diagonals in a Matrix
-// Difficulty: Easy
 // Concept: 2D Array Traversal, Diagonal Elements
 
 // Description:

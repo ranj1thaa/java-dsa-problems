@@ -1,5 +1,4 @@
 // Problem: Search Element in a Sorted 2D Matrix
-// Difficulty: Easy–Medium
 // Concept: 2D Array Traversal, Binary Search, Staircase Search
 
 // Description:

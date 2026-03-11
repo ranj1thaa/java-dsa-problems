@@ -1,5 +1,4 @@
 // Problem: Transpose of a Matrix
-// Difficulty: Easy
 // Concept: 2D Array, Matrix Transformation
 
 // Description:
