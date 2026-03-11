@@ -29,13 +29,14 @@
 | 29  | Sub Arrays                 | Array   | Easy        | Mar 7 |
 | 30  | Trapping Rain Wate         | Array   | Hard        | Mar 7 |
 | 31  | Buy & Sell Stock           | Array   | Medium      | Mar 7 |
-| 32  | Bubble Sort                | Sorting | Easy        | Mar 8 |
-| 33  | Selection Sort             | Sorting | Easy        | Mar 8 |
-| 34  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 32  | Merge Sorted Array         | Array   | Easy        | Mar 7 |
+| 33  | Bubble Sort                | Sorting | Easy        | Mar 8 |
+| 34  | Selection Sort             | Sorting | Easy        | Mar 8 |
 | 35  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 36  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 37  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 38  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 39  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 40  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-| 41  | Insertion Sort             | String  | Easy        | Mar 8 |
+| 36  | Anagrams                   | String  | Easy        | Mar 9 |
+| 37  | Count Vowels               | String  | Easy        | Mar 8 |
+| 38  | Largest String             | String  | Easy        | Mar 8 |
+| 39  | Palindromic                | String  | Easy        | Mar 8 |
+| 40  | Shortest Path              | String  | Easy–Medium | Mar 8 |
+| 41  | String Comparision         | String  | Easy-Medium | Mar 8 |
+| 42  | First letter upper case    | String  | Easy        | Mar 8 |

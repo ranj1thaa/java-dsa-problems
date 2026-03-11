@@ -26,7 +26,7 @@
 public class LargestSmallestNumber {
   public static int[] largeSmallNum(int n[]) {
     int assumeLarge = 0;
-    int assumeSmall = 0;
+    int assumeSmall = 0; // if ints -values we can use Integer.MAX_VALUE
     for (int i = 1; i < n.length; i++) {
       if (n[assumeLarge] < n[i]) {
         assumeLarge = i;
