@@ -32,10 +32,10 @@
 | 32  | Bubble Sort                | Sorting | Easy        | Mar 8 |
 | 33  | Selection Sort             | Sorting | Easy        | Mar 8 |
 | 34  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
-
-| 35 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
-| 36 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
-| 37 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
-| 38 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
-| 39 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
-| 40 | Insertion Sort | Sorting | Easy–Medium | Mar 8 |
+| 35  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 36  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 37  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 38  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 39  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 40  | Insertion Sort             | Sorting | Easy–Medium | Mar 8 |
+| 41  | Insertion Sort             | String  | Easy        | Mar 8 |
