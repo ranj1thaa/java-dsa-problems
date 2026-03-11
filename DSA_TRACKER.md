@@ -50,3 +50,5 @@
 | 50  | Merge without extra space          | Array    | Medium      | Mar 10 |
 | 51  | Reverse string                     | String   | Easy        | Mar 10 |
 | 52  | Count Vowel Substrings of a String | String   | Easy        | Mar 10 |
+| 53  | Toggle case                        | String   | Easy        | Mar 10 |
+| 54  | Remove Space                       | String   | Easy        | Mar 10 |
