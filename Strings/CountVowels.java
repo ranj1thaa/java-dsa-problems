@@ -43,5 +43,6 @@ public class CountVowels {
     Scanner sc = new Scanner(System.in);
     String str = sc.next();
     countVowel(str);
+    sc.close();
   }
 }
