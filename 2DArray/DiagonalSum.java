@@ -31,7 +31,7 @@
 // Space Complexity: O(1)
 public class DiagonalSum {
   public static void printDiagnalSUm(int n[][]) {
-    int sum = 0; // (n^2)
+    int sum = 0;
     for (int i = 0; i < n.length; i++) {
       for (int j = 0; j < n[0].length; j++) {
         if (i == j) {
