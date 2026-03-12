@@ -52,3 +52,10 @@
 | 52  | Count Vowel Substrings of a String | String   | Easy        | Mar 10 |
 | 53  | Toggle case                        | String   | Easy        | Mar 10 |
 | 54  | Remove Space                       | String   | Easy        | Mar 10 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
+| 55  | Rotate Array                       | Array    | Medium      | Mar 11 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
+| 55  | Two Sum                            | Array    | Easy        | Mar 11 |
