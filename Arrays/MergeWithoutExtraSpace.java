@@ -1,5 +1,4 @@
 // Problem: Merge Two Sorted Arrays Without Extra Space
-// Difficulty: Medium
 // Concept: Swapping + Sorting
 
 // Description:

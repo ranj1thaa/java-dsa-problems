@@ -2,8 +2,7 @@
 // Concept: String, Sorting, Character Comparison
 
 // Description:
-// Two strings are called anagrams if they contain the same characters
-// with the same frequency but possibly in a different order.
+// Two strings are called anagrams if they contain the same characters with same frequency but possibly in a different order.
 
 // Example:
 // Input: s = "listen", t = "silent"
