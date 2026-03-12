@@ -1,0 +1,6 @@
+Binary AND  = &           (only 1&1=1)
+Binary OR   = |           (0|0=0 else 1)
+Binary XOR  = ^           (0^0=0, 1^1=0, 1^0=1, 0^1=1)
+Binary 1s complement  = ~ (~0=1, ~1=0)
+Binary left shift = <<    (<< shifts places)
+Binary right shift = >>   (>>)
